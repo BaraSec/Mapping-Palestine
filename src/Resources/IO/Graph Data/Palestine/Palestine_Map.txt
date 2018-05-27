@@ -1,0 +1,434 @@
+Major: Be'er Sheva: 174: 451
+Minor: Meitar: 199: 438: 17.7: Irreversable
+Minor: Eshel Hanasi: 142: 434: 14.7: Irreversable
+Minor: Ein Habesor: 115: 436: 43.1
+Minor: Ahuzam: 154: 395: 36.6: Irreversable
+
+Minor: Meitar: 199: 438
+Major: Be'er Sheva: 174: 451: 17.8: Irreversable
+Minor: Dura: 216: 402: 33.3: Irreversable
+Minor: Ahuzam: 154: 395: 39.5: Irreversable
+Minor: Eshel Hanasi: 142: 434: 32.2: Irreversable
+Minor: Ein Habesor: 115: 436: 61.5: Irreversable
+
+Minor: Eshel Hanasi: 142: 434
+Major: Be'er Sheva: 174: 451: 14.5: Irreversable
+Minor: Ahuzam: 154: 395: 30.7: Irreversable
+Major: Gaza: 118: 386: 63.1: Irreversable
+Minor: Meitar: 199: 438: 31.6: Irreversable
+Minor: Ein Habesor: 115: 436: 31.8: Irreversable
+Minor: Dura: 216: 402: 52: Irreversable
+Minor: Deir al-Balah: 97: 412: 45: Irreversable
+
+Minor: Ein Habesor: 115: 436
+Minor: Meitar: 199: 438: 61.6: Irreversable
+Minor: Ahuzam: 154: 395: 59.9: Irreversable
+Minor: Eshel Hanasi: 142: 434: 31.2: Irreversable
+Major: Khan Yunis: 84: 427: 30.7
+Major: Rafah: 81: 441: 30
+Minor: Deir al-Balah: 97: 412: 27.9
+
+Minor: Dura: 216: 402
+Minor: Meitar: 199: 438: 33.5: Irreversable
+Major: Hebron: 221: 389: 8.8
+Minor: Eshel Hanasi: 142: 434: 52.1: Irreversable
+Minor: Ahuzam: 154: 395: 30.3: Irreversable
+
+Minor: Ahuzam: 154: 395
+Minor: Meitar: 199: 438: 42.1: Irreversable
+Minor: Eshel Hanasi: 142: 434: 29.8: Irreversable
+Major: Be'er Sheva: 174: 451: 36.5: Irreversable
+Minor: Ein Habesor: 115: 436: 59.6: Irreversable
+Major: Khan Yunis: 84: 427: 72.6: Irreversable
+Major: Gaza: 118: 386: 87.9: Irreversable
+Major: Ashkelon: 131: 363: 26.8: Irreversable
+Major: Ashdod: 140: 348: 46.4: Irreversable
+Major: Hebron: 221: 389: 45.5: Irreversable
+Minor: Dura: 216: 402: 30: Irreversable
+Minor: Deir al-Balah: 97: 412: 69.8: Irreversable
+Minor: Kiryat Gat: 154: 367: 8.4: Irreversable
+
+Major: Gaza: 118: 386
+Minor: Eshel Hanasi: 142: 434: 62.9: Irreversable
+Minor: Ahuzam: 154: 395: 88.2: Irreversable
+Minor: Deir al-Balah: 97: 412: 18: Irreversable
+Major: Ashkelon: 131: 363: 75.6
+Minor: Kiryat Gat: 154: 367: 89.5: Irreversable
+
+Major: Khan Yunis: 84: 427
+Minor: Ahuzam: 154: 395: 73: Irreversable
+Major: Rafah: 81: 441: 9.9
+Minor: Deir al-Balah: 97: 412: 10.8: Irreversable
+
+Major: Ashkelon: 131: 363
+Minor: Ahuzam: 154: 395: 27.4: Irreversable
+Major: Ashdod: 140: 348: 23.3: Irreversable
+Minor: Kiryat Gat: 154: 367: 25.6: Irreversable
+
+Major: Ashdod: 140: 348
+Minor: Ahuzam: 154: 395: 45.8: Irreversable
+Major: Ashkelon: 131: 363: 23.1: Irreversable
+Minor: Kiryat Gat: 154: 367: 43.7: Irreversable
+Minor: Beit Shemesh: 194: 361: 46.2: Irreversable
+Minor: Nahshon: 189: 326: 37: Irreversable
+Minor: Gan Sorek: 157: 310: 23.8: Irreversable
+
+Major: Hebron: 221: 389
+Minor: Ahuzam: 154: 395: 45.6: Irreversable
+Minor: Kiryat Gat: 154: 367: 34.9: Irreversable
+Minor: Beit Ummar: 237: 368: 12.7: Irreversable
+Minor: Beit Shemesh: 194: 361: 48.6: Irreversable
+
+Major: Rafah: 81: 441
+
+Minor: Deir al-Balah: 97: 412
+Major: Khan Yunis: 84: 427: 10.7: Irreversable
+Major: Gaza: 118: 386: 18.3: Irreversable
+Minor: Eshel Hanasi: 142: 434: 44.9: Irreversable
+Minor: Ahuzam: 154: 395: 70.1: Irreversable
+
+Minor: Kiryat Gat: 154: 367
+Minor: Ahuzam: 154: 395: 8.2: Irreversable
+Major: Ashkelon: 131: 363: 23.5: Irreversable
+Major: Ashdod: 140: 348: 44.7: Irreversable
+Major: Hebron: 221: 389: 34.8: Irreversable
+Major: Gaza: 118: 386: 87.5: Irreversable
+Minor: Beit Shemesh: 194: 361: 40.1: Irreversable
+
+Minor: Beit Ummar: 237: 368
+Major: Hebron: 221: 389: 12.8: Irreversable
+Major: Bethlehem: 254: 347: 16.4
+Minor: Beit Shemesh: 194: 361: 24.9: Irreversable
+Minor: Abu Ghosh: 227: 334: 43.3: Irreversable
+
+Major: Bethlehem: 254: 347
+Major: Jerusalem: 257: 334: 10.7
+Minor: Beit Shemesh: 194: 361: 31: Irreversable
+Minor: Abu Ghosh: 227: 334: 25.1: Irreversable
+
+Minor: Beit Shemesh: 194: 361
+Major: Ashdod: 140: 348: 46.1: Irreversable
+Minor: Beit Ummar: 237: 368: 26.1: Irreversable
+Minor: Kiryat Gat: 154: 367: 37: Irreversable
+Major: Hebron: 221: 389: 45.2: Irreversable
+Major: Bethlehem: 254: 347: 29.3: Irreversable
+Minor: Abu Ghosh: 227: 334: 20.8: Irreversable
+Minor: Nahshon: 189: 326: 16.1: Irreversable
+Minor: Ahuzam: 154: 395: 42.8
+
+Minor: Abu Ghosh: 227: 334
+Minor: Beit Shemesh: 194: 361: 25.7: Irreversable
+Major: Jerusalem: 257: 334: 12.4: Irreversable
+Minor: Beit Ummar: 237: 368: 42.5: Irreversable
+Major: Bethlehem: 254: 347: 25.6: Irreversable
+
+Major: Jerusalem: 257: 334
+Minor: Abu Ghosh: 227: 334: 18.8: Irreversable
+Minor: Abu Dis: 272: 331: 6.8
+Minor: Beit Hanina: 256: 324: 10.1
+
+Minor: Nahshon: 189: 326
+Major: Ashdod: 140: 348: 35.9: Irreversable
+Minor: Abu Ghosh: 227: 334: 14.5
+Minor: Beit Shemesh: 194: 361: 17.9: Irreversable
+Major: Ramla: 186: 307: 18.6
+Minor: Kiryat Gat: 154: 367: 41.9
+
+Minor: Gan Sorek: 157: 310
+Major: Ashdod: 140: 348: 25.9: Irreversable
+Major: Ramla: 186: 307: 12.3
+Minor: Nahshon: 189: 326: 31.5
+Major: Jaffa: 171: 277: 10.6
+
+Major: Ramla: 186: 307
+Major: Lod: 187: 293: 5.7: Irreversable
+
+Major: Lod: 187: 293
+Major: Ramla: 186: 307: 5.0: Irreversable
+Major: Jaffa: 171: 277: 24.8: Irreversable
+Major: Tel Aviv: 175: 262: 24.8: Irreversable
+Minor: Shilat: 212: 306: 12.7
+
+Major: Jaffa: 171: 277
+Major: Tel Aviv: 175: 262: 7.2: Irreversable
+Major: Lod: 187: 293: 22.1: Irreversable
+Major: Qalqiliya: 218: 236: 38.7
+
+Major: Qalqiliya: 218: 236
+Minor: El Taiyiba: 222: 214: 15.5
+Minor: Shefayim: 187: 226: 32.6
+
+Minor: El Taiyiba: 222: 214
+Major: Tulkarm: 223: 200: 8.9
+Minor: El-Funduq: 243: 231: 27.8
+Minor: Kefar Yona: 206: 196: 15
+Minor: Shefayim: 187: 226: 33.2
+
+Major: Nablus: 266: 225
+Minor: Deir Sharaf: 249: 215: 9.1
+Minor: Fari'a: 282: 201: 18.1
+
+Minor: Fari'a: 282: 201
+Major: Tubas: 288: 189: 5.1
+Minor: Deir Sharaf: 249: 215: 20.6
+Minor: Burqa: 252: 200: 18.2
+
+Minor: Burqa: 252: 200
+Major: Tulkarm: 223: 200: 17
+Minor: Sde Yitzhak: 214: 182: 42.5
+Major: Jenin: 273: 173: 26.9
+Minor: Deir Sharaf: 249: 215: 7
+Minor: El Taiyiba: 222: 214: 32
+Major: Tubas: 288: 189: 22.9
+Minor: Umm el Fahm: 238: 170: 38.7
+
+Major: Jenin: 273: 173
+Minor: Yizre'el: 277: 152: 11.2
+
+Minor: Yizre'el: 277: 152
+Major: Beit She'an: 311: 169: 20.8
+Minor: Umm el Fahm: 238: 170: 23.1
+Major: Nazareth: 269: 128: 18.7
+Minor: Afula: 279: 140: 7.4
+
+Major: Tubas: 288: 189
+Minor: Al Zababida: 281: 181: 9
+Minor: Shadmot Mehola: 304: 189: 26.5
+
+Minor: Al Zababida: 281: 181
+Major: Jenin: 273: 173: 10.4
+Minor: Fari'a: 282: 201: 15.1
+Minor: Burqa: 252: 200: 22.2
+
+Minor: Deir Sharaf: 249: 215
+Major: Tulkarm: 223: 200: 25.9
+Minor: El-Funduq: 243: 231: 14.8
+
+Major: Tulkarm: 223: 200
+Minor: Kefar Yona: 206: 196: 10.1
+Minor: Sde Yitzhak: 214: 182: 15.8
+Minor: Umm el Fahm: 238: 170: 31.3
+
+Minor: Sde Yitzhak: 214: 182
+Major: Hadera: 199: 179: 14
+Minor: Kefar Yona: 206: 196: 21.7
+Minor: Umm el Fahm: 238: 170: 15.4
+
+Minor: Umm el Fahm: 238: 170
+Major: Jenin: 273: 173: 24.1
+Minor: Fari'a: 282: 201: 45.4
+Major: Hadera: 199: 179: 29.3
+
+Major: Netanya: 193: 201
+Major: Hadera: 199: 179: 20.3
+Minor: Shefayim: 187: 226: 11.4
+
+Major: Hadera: 199: 179
+Minor: Jisr az-Zarqa: 205: 153: 16.7
+
+Minor: Jisr az-Zarqa: 205: 153
+Minor: Ein Ayala: 207: 131: 16.8
+Minor: Umm el Fahm: 238: 170: 36.9
+
+Minor: Ein Ayala: 207: 131
+Major: Haifa: 213: 106: 17.6
+Minor: Umm el Fahm: 238: 170: 44.6
+Major: Nazareth: 269: 128: 49.1
+
+Major: Haifa: 213: 106
+Minor: Yagur: 232: 118: 13.7
+
+Minor: Yagur: 232: 118
+Major: Nazareth: 269: 128: 23.2
+Minor: Umm el Fahm: 238: 170: 29.6
+Minor: Ein Ayala: 207: 131: 32
+Minor: Jisr az-Zarqa: 205: 153: 35.8
+Minor: Qiryat Bialik: 232: 101: 13.9
+Minor: Shefar'am: 249: 112: 15.2
+
+Minor: Qiryat Bialik: 232: 101
+Major: Acre: 230: 82: 10.8
+Minor: Shefar'am: 249: 112: 11.3
+Minor: Ahihud: 247: 83: 16.9
+Minor: Rakefet: 271: 103: 25.3
+
+Minor: Shefar'am: 249: 112
+Major: Nazareth: 269: 128: 17.5
+Minor: Kinneret: 297: 121: 56.1
+Minor: Ahihud: 247: 83: 15.4
+Minor: Rakefet: 271: 103: 15.7
+
+Major: Acre: 230: 82
+Major: Nahariya: 236: 69: 11.3
+Minor: Ahihud: 247: 83: 7.9
+
+Major: Nahariya: 236: 69
+Minor: Ahihud: 247: 83: 18.5
+
+Minor: Kefar Yona: 206: 196
+Major: Netanya: 193: 201: 14.9
+Minor: Shefayim: 187: 226: 20.7
+
+Major: Tel Aviv: 175: 262
+Major: Jaffa: 171: 277: 6.5: Irreversable
+Major: Lod: 187: 293: 22.9: Irreversable
+Major: Qalqiliya: 218: 236: 30.5
+Minor: Shefayim: 187: 226: 17.9
+
+Minor: Abu Dis: 272: 331
+Minor: Al-Eizariya: 280: 325: 1.8
+
+Minor: Al-Eizariya: 280: 325
+Major: Jericho: 296: 314: 30.9
+
+Minor: Beit Hanina: 256: 324
+Minor: Rafat: 257: 317: 10.2
+Minor: Al-Eizariya: 280: 325: 11.8
+Minor: Abu Dis: 272: 331: 14.3
+Minor: Abu Ghosh: 227: 334: 15.6
+
+Minor: Rafat: 257: 317
+Major: Ramallah: 256: 309: 3.8
+
+Major: Ramallah: 256: 309
+Minor: Mikhmas: 269: 312: 10.8
+Minor: Beitin: 268: 291: 10.2
+
+Minor: Beitin: 268: 291
+Minor: Ein Siniya: 261: 271: 5.1
+
+Minor: Ein Siniya: 261: 271
+Minor: Sinjail: 254: 255: 7.8
+Minor: Ein Qiniya: 238: 298: 13.8
+
+Minor: Sinjail: 254: 255
+Minor: Huwwarah: 253: 239: 23
+Minor: Atara: 236: 273: 14.9
+
+Minor: Atara: 236: 273
+Minor: Halamish: 212: 278: 8.6
+Minor: Ein Siniya: 261: 271: 12
+Minor: Ein Qiniya: 238: 298: 16.8
+Major: Salfit: 241: 250: 20.3
+
+Minor: Halamish: 212: 278
+Minor: Shilat: 212: 306: 23.2
+Major: Lod: 187: 293: 34.2
+Minor: Nahliel: 231: 285: 11
+Major: Salfit: 241: 250: 15.2
+Minor: Rantis: 196: 272: 16.3
+
+Minor: Rantis: 196: 272
+Major: Tel Aviv: 175: 262: 35
+Major: Jaffa: 171: 277: 34.9
+Major: Lod: 187: 293: 18.6
+Major: Salfit: 241: 250: 16.3
+Major: Qalqiliya: 218: 236: 29.8
+
+Minor: Nahliel: 231: 285
+Minor: Ein Qiniya: 238: 298: 14.2
+Minor: Shilat: 212: 306: 22.5
+
+Minor: Ein Qiniya: 238: 298
+Major: Ramallah: 256: 309: 6.8
+Minor: Beitin: 268: 291: 12.5
+Minor: Beit Horon: 239: 314: 17.1
+
+Minor: Huwwarah: 253: 239
+Major: Salfit: 241: 250: 9.4
+Major: Nablus: 266: 225: 12.4
+Minor: El-Funduq: 243: 231: 24.4
+
+Major: Nablus: 266: 225
+Minor: El-Funduq: 243: 231: 16.3
+Minor: Al Jiftlik: 293: 222: 37.4
+
+Major: Salfit: 241: 250
+Minor: Anabi Elyas: 226: 241: 30.6
+Minor: El-Funduq: 243: 231: 19.7
+
+Minor: Anabi Elyas: 226: 241
+Major: Qalqiliya: 218: 236: 3.9
+Minor: Rantis: 196: 272: 31.8
+Minor: El-Funduq: 243: 231: 12.4
+
+Minor: Mikhmas: 269: 312
+Minor: Rammun: 277: 302: 7.8
+Minor: Al-Eizariya: 280: 325: 20.1
+Minor: Abu Dis: 272: 331: 32.2
+Minor: Beitin: 268: 291: 7.5
+
+Minor: Rammun: 277: 302
+Minor: Ein Duyuk: 288: 307: 16
+
+Minor: Ein Duyuk: 288: 307
+Major: Jericho: 296: 314: 4.1
+
+Major: Jericho: 296: 314
+Minor: Aluja: 295: 283: 16.3
+
+Minor: Al Jiftlik: 293: 222
+Minor: Fari'a: 282: 201: 27.2
+Minor: Shadmot Mehola: 304: 189: 24.5
+
+Minor: Shadmot Mehola: 304: 189
+Major: Beit She'an: 311: 169: 22.1
+
+Major: Beit She'an: 311: 169
+Minor: Afula: 279: 140: 24.7
+Minor: Afiqim: 319: 140: 24.6
+
+Minor: Afiqim: 319: 140
+Major: Tiberias: 315: 120: 18.3
+Minor: Kinneret: 297: 121: 25.6
+
+Major: Tiberias: 315: 120
+Minor: Migdal: 305: 105: 10.1
+
+Minor: Tsfat: 313: 88
+Major: Safed: 309: 67: 15.9
+Minor: Rama: 288: 86: 18.6
+Minor: Migdal: 305: 105: 12.8
+
+Minor: Rama: 288: 86
+Minor: Ahihud: 247: 83: 18.5
+Major: Safed: 309: 67: 25.2
+Minor: Migdal: 305: 105: 24.5
+Minor: Rakefet: 271: 103: 17.3
+
+Minor: Afula: 279: 140
+Major: Nazareth: 269: 128: 12
+Minor: Umm el Fahm: 238: 170: 18.1
+
+Major: Nazareth: 269: 128
+Minor: Kinneret: 297: 121: 22
+Minor: Jisr az-Zarqa: 205: 153: 52.1
+Minor: Rakefet: 271: 103: 29.6
+
+Minor: Rakefet: 271: 103
+Minor: Ahihud: 247: 83: 13.4
+
+Minor: Kinneret: 297: 121
+Major: Tiberias: 315: 120: 10.5
+Minor: Afula: 279: 140: 27.8
+Minor: Migdal: 305: 105: 14.6
+
+Minor: Aluja: 295: 283
+Minor: Fasayil: 290: 260: 9.3
+Minor: Rammun: 277: 302: 18
+
+Minor: Fasayil: 290: 260
+Minor: Ma'ale Efrayim: 274: 249: 11.8
+Minor: Al Jiftlik: 293: 222: 41.1
+
+Minor: Ma'ale Efrayim: 274: 249
+Minor: Huwwarah: 253: 239: 24.7
+Minor: Sinjail: 254: 255: 24.3
+Minor: Ein Siniya: 261: 271: 38.1
+
+Minor: Shilat: 212: 306
+Minor: Beit Horon: 239: 314: 14.9
+Minor: Abu Ghosh: 227: 334: 27.4
+
+Minor: Beit Horon: 239: 314
+Minor: Rafat: 257: 317: 8

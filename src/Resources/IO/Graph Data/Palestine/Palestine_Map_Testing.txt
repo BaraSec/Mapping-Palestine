@@ -1,0 +1,38 @@
+Major: Be'er Sheva: 173.0: 449.0
+Minor: a1: 201: 443: 10
+Minor: a2: 180: 428: 15
+Minor: a3: 159: 426: 20
+
+Minor: a1: 201: 443
+Minor: b2: 236: 422: 12
+Minor: b1: 218: 413: 5
+
+Minor: a2: 180: 428
+Major: Hebron: 221: 388: 20
+
+Minor: a3: 159: 426
+Minor: c1: 158: 423: 9
+Minor: c2: 134: 416: 81
+Minor: c3: 116: 434: 8
+Minor: c4: 132: 475: 6
+
+Minor: b1: 218: 413
+Major: Hebron: 221: 388: 9: Irreversable 1
+Minor: b2: 236: 422: 12
+
+Minor: c1: 158: 423
+Minor: d2: 151: 394: 2
+Minor: d1: 106: 394: 28
+
+Minor: c2: 134: 416
+Major: Rafah: 80: 440: 16
+
+Minor: c3: 116: 434
+Minor: c2: 134: 416: 9
+
+Minor: d1: 106: 394
+Major: Younes: 86: 424: 30
+
+Major: Hebron: 221: 388
+Major: Younes: 86: 424: 90
+Minor: b1: 218: 413: 12: Irreversable 1
